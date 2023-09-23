@@ -1,5 +1,5 @@
 # LAB - Class 03
-## Project: Mad Lib
+## Project: Mad Lib CLI
 ### Author: KP Gomez
 #### Links and Resources
 - back-end server url (when applicable)
@@ -13,11 +13,13 @@ i.e.
 - DATABASE_URL - URL to the running Postgres instance/db
 
 ##### How to initialize/run your application (where applicable)
-e.g. python main.py
+python main.py
 
 ##### How to use your library (where applicable)
+import pytest
 
 ##### Tests
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+pytest
+
+#### Attribution
+[All About MadLib](https://hessunacademy.com/what-are-mad-libs/)
