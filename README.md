@@ -22,4 +22,6 @@ import pytest
 pytest
 
 #### Attribution
-[All About MadLib](https://hessunacademy.com/what-are-mad-libs/)
+- [All About MadLib](https://hessunacademy.com/what-are-mad-libs/)
+- [Regex](https://www.w3schools.com/python/python_regex.asp)
+- [Regex Pattern to Exclude anything in between {}](https://chat.openai.com/c/834e3bf3-3c0f-4445-91e8-36af3c7b2343)
